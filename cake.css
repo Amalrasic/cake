@@ -1,0 +1,68 @@
+#g1{
+    height: 600px;
+}
+#j1{
+    height: 600px;
+}
+#mm1{
+    width: 200px;
+
+    height: 210px;
+
+}
+#mm1:hover{
+    box-shadow: 5px 5px 20px;
+    color: grey;
+
+}
+#mm2{
+    width: 200px;
+    height:210px ;
+
+}
+#mm2:hover{
+    box-shadow: 5px 5px 20px;
+    color: grey;
+
+}
+
+#mm3{
+    width: 200px;
+    height: 210px;
+
+}
+#mm3:hover{
+    box-shadow: 5px 5px 20px;
+    color: grey;
+
+}
+
+#mm4{
+    width: 180px;
+    height: 210px;
+}
+#mm4:hover{
+    box-shadow: 5px 5px 20px;
+    color: grey;
+
+}
+
+#love{
+    text-align:center ; 
+    font-size: 40px;
+    font-weight: bold;
+     color: purple;
+}
+#bu{
+    margin-left: 50px;
+    background-color: deeppink;
+    color: white;
+    border: none;
+    font-weight: bold;
+}
+#bu:hover{
+    margin-left: 50px;
+background-color: blueviolet;
+color: black;
+border: none;
+}
